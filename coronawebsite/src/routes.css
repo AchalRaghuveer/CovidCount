@@ -1,0 +1,25 @@
+.ulStyle {
+    list-style-type: none;
+    
+    display: inline;
+}
+
+nav {
+    background-color:rgb(2, 33, 117);
+    /* position: fixed;
+    top: 0;
+    width: 100%; */
+}
+
+.lis {
+    float: right;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 25px;
+    text-decoration: none;
+}
+
+.lis:hover {
+    background-color: #111111;
+}

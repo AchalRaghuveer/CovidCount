@@ -1,0 +1,11 @@
+ul{
+    list-style-type: none;
+    
+    display: inline;
+}
+.leftbox {
+    border-style: inset;
+}
+.rightbox{
+    border-style: outset;
+}
